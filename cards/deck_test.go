@@ -8,6 +8,6 @@ func TestNewDeck(t *testing.T) {
 	deckLength := len(deck)
 
 	if deckLength != 48 {
-		t.Error("Expected deck length of 48, but got", deckLength)
+		t.Errorf("Expected deck length of 48, but got %v", deckLength)
 	}
 }
