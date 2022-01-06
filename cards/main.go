@@ -9,7 +9,7 @@ func main() {
 
 	fmt.Println("------------")
 
-	hand, remainingDeck := cards.deal(15)
+	hand, remainingDeck := deal(cards, 15)
 
 	hand.print()
 
