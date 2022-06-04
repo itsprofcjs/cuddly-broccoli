@@ -1,8 +1,8 @@
 package main
 
 import (
-	"cjs/mgrep/worker"
 	"fmt"
+	"mgrep/worker"
 	"mgrep/worklist"
 	"os"
 	"path/filepath"
@@ -65,9 +65,11 @@ func main() {
 				workEntry := wl.Next()
 
 				if workEntry.Path != "" {
-					
+
 				}
 			}
-		}
+		}()
 	}
+
+	fmt.Println("Results", results)
 }

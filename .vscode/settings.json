@@ -1,8 +1,0 @@
-{
-  "[go]": {
-    "editor.defaultFormatter": "golang.go"
-  },
-  "gopls": {
-    "experimentalWorkspaceModule": true
-  }
-}
