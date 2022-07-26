@@ -27,7 +27,6 @@ func main() {
 	log.Println("Starting authentication service")
 
 	// TODO connect to DB
-
 	conn := connectToDB()
 
 	if conn == nil {
