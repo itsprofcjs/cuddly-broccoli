@@ -160,18 +160,3 @@ func (m *Mail) inlineCSS(s string) (string, error) {
 
 	return html, nil
 }
-
-func (m *Mail) getEncryption(s string) any {
-	switch s {
-	case "tls":
-		return mail.EncryptionTLS
-	case "ssl":
-		return mail.EncryptionSSL
-	case "none", "":
-		return mail.EncryptionNone
-	default:
-		return mail.EncryptionTLS
-	}
-
-	return nil
-}
