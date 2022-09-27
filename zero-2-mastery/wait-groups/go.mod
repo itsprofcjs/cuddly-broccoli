@@ -1,3 +1,3 @@
 module cjs/wait-groups
 
-go 1.18
+go 1.19
