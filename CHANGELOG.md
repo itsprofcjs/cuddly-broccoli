@@ -1,3 +1,10 @@
+# [1.1.0-beta.1](https://github.com/itsprofcjs/cuddly-broccoli/compare/v1.0.0...v1.1.0-beta.1) (2022-09-27)
+
+
+### Features
+
+* upgrade go to 1.19 ([69df19e](https://github.com/itsprofcjs/cuddly-broccoli/commit/69df19e2364babc4f2605d6a060a1d2466d3c5de))
+
 # 1.0.0 (2022-08-05)
 
 
