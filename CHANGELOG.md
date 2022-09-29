@@ -1,3 +1,10 @@
+# [1.1.0-beta.2](https://github.com/itsprofcjs/cuddly-broccoli/compare/v1.1.0-beta.1...v1.1.0-beta.2) (2022-09-29)
+
+
+### Features
+
+* deck with read write from txt file ([8d439ab](https://github.com/itsprofcjs/cuddly-broccoli/commit/8d439ab7c2bde3918a403424584554923832c6ca))
+
 # [1.1.0-beta.1](https://github.com/itsprofcjs/cuddly-broccoli/compare/v1.0.0...v1.1.0-beta.1) (2022-09-27)
 
 
