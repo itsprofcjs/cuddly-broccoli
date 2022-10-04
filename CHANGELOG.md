@@ -1,3 +1,10 @@
+# [1.1.0-beta.3](https://github.com/itsprofcjs/cuddly-broccoli/compare/v1.1.0-beta.2...v1.1.0-beta.3) (2022-10-04)
+
+
+### Features
+
+* **map:** map integration ([14e2d2a](https://github.com/itsprofcjs/cuddly-broccoli/commit/14e2d2aefe5151d5e3d77ecc9d5d6dab42a22c8a))
+
 # [1.1.0-beta.2](https://github.com/itsprofcjs/cuddly-broccoli/compare/v1.1.0-beta.1...v1.1.0-beta.2) (2022-09-29)
 
 
