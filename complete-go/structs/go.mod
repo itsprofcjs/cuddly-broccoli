@@ -1,3 +1,3 @@
-module cjs/structs
+module cjs/struct
 
 go 1.19
