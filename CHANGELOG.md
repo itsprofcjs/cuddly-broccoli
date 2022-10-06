@@ -1,3 +1,10 @@
+# [1.1.0-beta.4](https://github.com/itsprofcjs/cuddly-broccoli/compare/v1.1.0-beta.3...v1.1.0-beta.4) (2022-10-06)
+
+
+### Features
+
+* interfaces with http ([99aa9a2](https://github.com/itsprofcjs/cuddly-broccoli/commit/99aa9a2b804205eea08172a9f292d40055c33954))
+
 # [1.1.0-beta.3](https://github.com/itsprofcjs/cuddly-broccoli/compare/v1.1.0-beta.2...v1.1.0-beta.3) (2022-10-04)
 
 
