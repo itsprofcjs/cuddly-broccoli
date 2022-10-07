@@ -1,3 +1,10 @@
+# [1.1.0-beta.5](https://github.com/itsprofcjs/cuddly-broccoli/compare/v1.1.0-beta.4...v1.1.0-beta.5) (2022-10-07)
+
+
+### Features
+
+* channels ([091036b](https://github.com/itsprofcjs/cuddly-broccoli/commit/091036b1aca1ec884d6a6a88da017af6d97383bd))
+
 # [1.1.0-beta.4](https://github.com/itsprofcjs/cuddly-broccoli/compare/v1.1.0-beta.3...v1.1.0-beta.4) (2022-10-06)
 
 
