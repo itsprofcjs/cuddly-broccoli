@@ -1,3 +1,19 @@
+# [1.1.0](https://github.com/itsprofcjs/cuddly-broccoli/compare/v1.0.0...v1.1.0) (2022-10-10)
+
+
+### Bug Fixes
+
+* channel mod ([67518b6](https://github.com/itsprofcjs/cuddly-broccoli/commit/67518b6ea1947624fe599c67ec064456aa9d2828))
+
+
+### Features
+
+* channels ([091036b](https://github.com/itsprofcjs/cuddly-broccoli/commit/091036b1aca1ec884d6a6a88da017af6d97383bd))
+* deck with read write from txt file ([8d439ab](https://github.com/itsprofcjs/cuddly-broccoli/commit/8d439ab7c2bde3918a403424584554923832c6ca))
+* interfaces with http ([99aa9a2](https://github.com/itsprofcjs/cuddly-broccoli/commit/99aa9a2b804205eea08172a9f292d40055c33954))
+* **map:** map integration ([14e2d2a](https://github.com/itsprofcjs/cuddly-broccoli/commit/14e2d2aefe5151d5e3d77ecc9d5d6dab42a22c8a))
+* upgrade go to 1.19 ([69df19e](https://github.com/itsprofcjs/cuddly-broccoli/commit/69df19e2364babc4f2605d6a060a1d2466d3c5de))
+
 # [1.1.0-beta.5](https://github.com/itsprofcjs/cuddly-broccoli/compare/v1.1.0-beta.4...v1.1.0-beta.5) (2022-10-07)
 
 
