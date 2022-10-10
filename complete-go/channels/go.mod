@@ -1,3 +1,3 @@
-module cjs/channels
+module cjs/channel
 
 go 1.19
