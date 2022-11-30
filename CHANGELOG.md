@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/itsprofcjs/cuddly-broccoli/compare/v1.2.0...v1.2.1) (2022-11-30)
+
+
+### Bug Fixes
+
+* ignore app binary ([75e78e1](https://github.com/itsprofcjs/cuddly-broccoli/commit/75e78e1f306cf4dece79120aa2bc49de5e2d46bd))
+
 # [1.2.0](https://github.com/itsprofcjs/cuddly-broccoli/compare/v1.1.0...v1.2.0) (2022-11-30)
 
 
