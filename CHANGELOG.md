@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/itsprofcjs/cuddly-broccoli/compare/v1.1.0...v1.2.0) (2022-11-30)
+
+
+### Features
+
+* mailer and listener service integration ([1e5a9ff](https://github.com/itsprofcjs/cuddly-broccoli/commit/1e5a9ffb56f95cd218e9ae535283f5ee37deb5ba))
+
 # [1.1.0](https://github.com/itsprofcjs/cuddly-broccoli/compare/v1.0.0...v1.1.0) (2022-10-10)
 
 
