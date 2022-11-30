@@ -13,9 +13,11 @@
 
 db-data
 
-authApp
 brokerApp
 frontApp
+authApp
 loggerServiceApp
+mailerApp
+listenerApp
 # Dependency directories (remove the comment below to include it)
 # vendor/
